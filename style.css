@@ -1,0 +1,23 @@
+html {
+  background-color: rgb(0, 153, 255);
+}
+/* create a fixed- width body. content is 600px and left/right padding of 75px      */
+body {
+  font-family: "Protest Strike", sans-serif;
+  background-color: bisque;
+  width: 600px;
+  margin: 20px auto;
+  border: 3px rgb(47, 0, 255);
+  padding: 30px;
+  background-position: right bottom, left top;
+}
+h1 {
+  text-shadow: 2px 2px blue;
+}
+h2 {
+  text-shadow: 3px 3px blue;
+}
+
+body {
+  color: rgb(59, 38, 116);
+}
